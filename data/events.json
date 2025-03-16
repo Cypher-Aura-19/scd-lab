@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Meeting",
+    "description": "Software Engineering Society meeting",
+    "date": "2025-03-15",
+    "time": "14:00",
+    "category": "Meetings",
+    "reminder": true
+  },
+  {
+    "id": 2,
+    "name": "Birthday Party",
+    "description": "Ibrahim’s Birthday",
+    "date": "2025-03-20",
+    "time": "19:00",
+    "category": "Birthdays",
+    "reminder": true
+  },
+  {
+    "id": 3,
+    "name": "Meeting",
+    "description": "Software Engineering Society meeting",
+    "date": "2025-03-15",
+    "time": "14:00",
+    "category": "Meetings",
+    "reminder": true
+  },
+  {
+    "id": 4,
+    "name": "Birthday Party",
+    "description": "Ibrahim’s Birthday",
+    "date": "2025-03-20",
+    "time": "19:00",
+    "category": "Birthdays",
+    "reminder": true
+  },
+  {
+    "id": 5,
+    "name": "To Do Task",
+    "description": "Do Gaming",
+    "date": "2025-05-10",
+    "time": "16:00",
+    "category": "Hobbies",
+    "reminder": true
+  },
+  {
+    "id": 6,
+    "name": "To Do Task",
+    "description": "SCD Lab Task",
+    "date": "2025-03-20",
+    "time": "08:00",
+    "category": "Study",
+    "reminder": true
+  },
+  {
+    "id": 7,
+    "name": "Meeting",
+    "description": "Software Engineering Society meeting",
+    "date": "2025-03-15",
+    "time": "14:00",
+    "category": "Meetings",
+    "reminder": true
+  },
+  {
+    "id": 8,
+    "name": "Birthday Party",
+    "description": "Ibrahim’s Birthday",
+    "date": "2025-03-20",
+    "time": "19:00",
+    "category": "Birthdays",
+    "reminder": true
+  },
+  {
+    "id": 9,
+    "name": "To Do Task",
+    "description": "Do Gaming",
+    "date": "2025-05-10",
+    "time": "16:00",
+    "category": "Hobbies",
+    "reminder": true
+  },
+  {
+    "id": 10,
+    "name": "To Do Task",
+    "description": "SCD Lab Task",
+    "date": "2025-03-20",
+    "time": "08:00",
+    "category": "Study",
+    "reminder": true
+  }
+]
